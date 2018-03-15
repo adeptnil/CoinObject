@@ -1,8 +1,20 @@
+
 #coinPlate{
-    
+    height: 75vh;
+    width: 95vh;
+    /* display: flex;
+    align-content: space-around;
+    flex-direction: row; */
+    /* flex-grow: 1; */
 }
 
 img {
+    /* align-content: space-around; */
     width: 200px;
     height: 200px;
+}
+
+div {
+    width: 25px;
+    height: 25px;
 }
